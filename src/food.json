@@ -1,0 +1,196 @@
+{
+    "foods": [
+        {
+            "name": "Kimchi",
+            "hunger": "small"
+        },
+        {
+            "name": "Bibimbap",
+            "hunger": "large"
+        },
+        {
+            "name": "Bulgogi",
+            "hunger": "large"
+        },
+        {
+            "name": "Samgyeopsal",
+            "hunger": "large"
+        },
+        {
+            "name": "Tteokbokki",
+            "hunger": "medium"
+        },
+        {
+            "name": "Jjajangmyeon",
+            "hunger": "large"
+        },
+        {
+            "name": "Jjamppong",
+            "hunger": "large"
+        },
+        {
+            "name": "Sundubu-jjigae",
+            "hunger": "large"
+        },
+        {
+            "name": "Kimchi Jjigae",
+            "hunger": "large"
+        },
+        {
+            "name": "Kimbap",
+            "hunger": "medium"
+        },
+        {
+            "name": "Banchan",
+            "hunger": "small"
+        },
+        {
+            "name": "Naengmyeon",
+            "hunger": "medium"
+        },
+        {
+            "name": "Hoddeok",
+            "hunger": "small"
+        },
+        {
+            "name": "Galbi",
+            "hunger": "large"
+        },
+        {
+            "name": "Hainanese Chicken Rice",
+            "hunger": "large"
+        },
+        {
+            "name": "Ssamjang",
+            "hunger": "small"
+        },
+        {
+            "name": "Doenjang Jjigae",
+            "hunger": "large"
+        },
+        {
+            "name": "Japchae",
+            "hunger": "medium"
+        },
+        {
+            "name": "Gimbap",
+            "hunger": "medium"
+        },
+        {
+            "name": "Budae Jjigae",
+            "hunger": "large"
+        },
+        {
+            "name": "Chimaek",
+            "hunger": "large"
+        },
+        {
+            "name": "Korean Fried Chicken",
+            "hunger": "large"
+        },
+        {
+            "name": "Tangsuyuk",
+            "hunger": "large"
+        },
+        {
+            "name": "Ddeokbokki",
+            "hunger": "medium"
+        },
+        {
+            "name": "Kimchi Pancake",
+            "hunger": "medium"
+        },
+        {
+            "name": "Bulgogi Bibimbap",
+            "hunger": "large"
+        },
+        {
+            "name": "Beef Short Ribs",
+            "hunger": "large"
+        },
+        {
+            "name": "Spicy Pork",
+            "hunger": "large"
+        },
+        {
+            "name": "Korean BBQ",
+            "hunger": "large"
+        },
+        {
+            "name": "Donggeurangttaeng",
+            "hunger": "medium"
+        },
+        {
+            "name": "Mul Naengmyeon",
+            "hunger": "medium"
+        },
+        {
+            "name": "Gochujang",
+            "hunger": "small"
+        },
+        {
+            "name": "Korean Meatballs",
+            "hunger": "medium"
+        },
+        {
+            "name": "Korean Style Tofu Soup",
+            "hunger": "large"
+        },
+        {
+            "name": "Seolleongtang",
+            "hunger": "large"
+        },
+        {
+            "name": "Jangjorim",
+            "hunger": "small"
+        },
+        {
+            "name": "Gyeranjjim",
+            "hunger": "small"
+        },
+        {
+            "name": "Haejangguk",
+            "hunger": "large"
+        },
+        {
+            "name": "Gochujang Stew",
+            "hunger": "large"
+        },
+        {
+            "name": "Kimchi Fried Rice",
+            "hunger": "medium"
+        },
+        {
+            "name": "Mandu",
+            "hunger": "medium"
+        },
+        {
+            "name": "Kimchi Soup",
+            "hunger": "large"
+        },
+        {
+            "name": "Korean Sushi Rolls",
+            "hunger": "medium"
+        },
+        {
+            "name": "Hwangtae Gui",
+            "hunger": "medium"
+        },
+        {
+            "name": "Sujebi",
+            "hunger": "large"
+        },
+        {
+            "name": "Bulgogi Sandwich",
+            "hunger": "medium"
+        },
+        {
+            "name": "Bokkeumbap",
+            "hunger": "medium"
+        },
+        {
+            "name": "Tteok",
+            "hunger": "small"
+        }
+    ]
+}

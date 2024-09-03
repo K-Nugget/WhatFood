@@ -59,7 +59,9 @@ function App() {
                 What should I eat today?
             </h1>
             <DropdownMenu>
-                <DropdownMenuTrigger>{selectedHunger}</DropdownMenuTrigger>
+                <DropdownMenuTrigger asChild>
+                    <Button variant="outline">{selectedHunger}</Button>
+                </DropdownMenuTrigger>
                 <DropdownMenuContent>
                     <DropdownMenuLabel>Hunger Amount</DropdownMenuLabel>
                     <DropdownMenuSeparator />

@@ -56,7 +56,7 @@ function App() {
         <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
             <ModeToggle></ModeToggle>
             <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">
-                What should I eat today?
+                What should I eat today 선아?
             </h1>
             <DropdownMenu>
                 <DropdownMenuTrigger asChild>

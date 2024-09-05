@@ -12,6 +12,8 @@ import {
     DropdownMenuSeparator,
     DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
+import { Toaster } from "@/components/ui/sonner";
+import { toast } from "sonner";
 
 interface Food {
     name: string;
@@ -60,7 +62,12 @@ function App() {
             </h1>
             <DropdownMenu>
                 <DropdownMenuTrigger asChild>
-                    <Button variant="outline">{selectedHunger}</Button>
+                    <Button
+                        variant="outline"
+                        style={{ width: "100px", height: "40px" }}
+                    >
+                        {selectedHunger}
+                    </Button>
                 </DropdownMenuTrigger>
                 <DropdownMenuContent>
                     <DropdownMenuLabel>Hunger Amount</DropdownMenuLabel>
@@ -83,7 +90,18 @@ function App() {
                 </DropdownMenuContent>
             </DropdownMenu>
 
-            <Button style={{ margin: "20px" }} onClick={recommendFood}>
+            <Button
+                style={{ margin: "20px" }}
+                onClick={() => {
+                    recommendFood(); // Invoke the function to recommend food
+                    toast("Food Recommended", {
+                        action: {
+                            label: "Close",
+                            onClick: () => {},
+                        },
+                    });
+                }}
+            >
                 Recommend Food
             </Button>
             <div style={{ minHeight: "40px", marginTop: "20px" }}>

@@ -1,196 +1,200 @@
 {
     "foods": [
         {
-            "name": "Kimchi",
+            "name": "불고기",
+            "hunger": "medium"
+        },
+        {
+            "name": "비빔밥",
+            "hunger": "medium"
+        },
+        {
+            "name": "떡볶이",
+            "hunger": "medium"
+        },
+        {
+            "name": "삼겹살",
+            "hunger": "large"
+        },
+        {
+            "name": "갈비찜",
+            "hunger": "large"
+        },
+        {
+            "name": "냉면",
+            "hunger": "medium"
+        },
+        {
+            "name": "된장찌개",
+            "hunger": "medium"
+        },
+        {
+            "name": "김밥",
             "hunger": "small"
         },
         {
-            "name": "Bibimbap",
-            "hunger": "large"
-        },
-        {
-            "name": "Bulgogi",
-            "hunger": "large"
-        },
-        {
-            "name": "Samgyeopsal",
-            "hunger": "large"
-        },
-        {
-            "name": "Tteokbokki",
+            "name": "순두부찌개",
             "hunger": "medium"
         },
         {
-            "name": "Jjajangmyeon",
-            "hunger": "large"
-        },
-        {
-            "name": "Jjamppong",
-            "hunger": "large"
-        },
-        {
-            "name": "Sundubu-jjigae",
-            "hunger": "large"
-        },
-        {
-            "name": "Kimchi Jjigae",
-            "hunger": "large"
-        },
-        {
-            "name": "Kimbap",
+            "name": "잡채",
             "hunger": "medium"
         },
         {
-            "name": "Banchan",
+            "name": "파전",
+            "hunger": "medium"
+        },
+        {
+            "name": "해물파전",
+            "hunger": "large"
+        },
+        {
+            "name": "설렁탕",
+            "hunger": "medium"
+        },
+        {
+            "name": "삼계탕",
             "hunger": "small"
         },
         {
-            "name": "Naengmyeon",
+            "name": "칼국수",
             "hunger": "medium"
         },
         {
-            "name": "Hoddeok",
+            "name": "순대",
+            "hunger": "medium"
+        },
+        {
+            "name": "닭갈비",
+            "hunger": "large"
+        },
+        {
+            "name": "매운탕",
+            "hunger": "medium"
+        },
+        {
+            "name": "호떡",
             "hunger": "small"
         },
         {
-            "name": "Galbi",
+            "name": "동태찌개",
+            "hunger": "medium"
+        },
+        {
+            "name": "감자탕",
             "hunger": "large"
         },
         {
-            "name": "Hainanese Chicken Rice",
-            "hunger": "large"
+            "name": "물냉면",
+            "hunger": "medium"
         },
         {
-            "name": "Ssamjang",
+            "name": "쌈밥",
+            "hunger": "medium"
+        },
+        {
+            "name": "육개장",
+            "hunger": "medium"
+        },
+        {
+            "name": "콩나물국",
             "hunger": "small"
         },
         {
-            "name": "Doenjang Jjigae",
+            "name": "보쌈",
             "hunger": "large"
         },
         {
-            "name": "Japchae",
+            "name": "찜닭",
+            "hunger": "large"
+        },
+        {
+            "name": "제육볶음",
             "hunger": "medium"
         },
         {
-            "name": "Gimbap",
-            "hunger": "medium"
-        },
-        {
-            "name": "Budae Jjigae",
-            "hunger": "large"
-        },
-        {
-            "name": "Chimaek",
-            "hunger": "large"
-        },
-        {
-            "name": "Korean Fried Chicken",
-            "hunger": "large"
-        },
-        {
-            "name": "Tangsuyuk",
-            "hunger": "large"
-        },
-        {
-            "name": "Ddeokbokki",
-            "hunger": "medium"
-        },
-        {
-            "name": "Kimchi Pancake",
-            "hunger": "medium"
-        },
-        {
-            "name": "Bulgogi Bibimbap",
-            "hunger": "large"
-        },
-        {
-            "name": "Beef Short Ribs",
-            "hunger": "large"
-        },
-        {
-            "name": "Spicy Pork",
-            "hunger": "large"
-        },
-        {
-            "name": "Korean BBQ",
-            "hunger": "large"
-        },
-        {
-            "name": "Donggeurangttaeng",
-            "hunger": "medium"
-        },
-        {
-            "name": "Mul Naengmyeon",
-            "hunger": "medium"
-        },
-        {
-            "name": "Gochujang",
+            "name": "만두",
             "hunger": "small"
         },
         {
-            "name": "Korean Meatballs",
+            "name": "떡국",
             "hunger": "medium"
         },
         {
-            "name": "Korean Style Tofu Soup",
+            "name": "갈비탕",
             "hunger": "large"
         },
         {
-            "name": "Seolleongtang",
+            "name": "부대찌개",
             "hunger": "large"
         },
         {
-            "name": "Jangjorim",
+            "name": "오징어볶음",
+            "hunger": "medium"
+        },
+        {
+            "name": "라면",
             "hunger": "small"
         },
         {
-            "name": "Gyeranjjim",
+            "name": "김치찌개",
+            "hunger": "medium"
+        },
+        {
+            "name": "낙지볶음",
+            "hunger": "medium"
+        },
+        {
+            "name": "곱창",
+            "hunger": "medium"
+        },
+        {
+            "name": "떡만두국",
+            "hunger": "medium"
+        },
+        {
+            "name": "된장국",
             "hunger": "small"
         },
         {
-            "name": "Haejangguk",
+            "name": "간장게장",
+            "hunger": "medium"
+        },
+        {
+            "name": "양념게장",
+            "hunger": "medium"
+        },
+        {
+            "name": "막국수",
+            "hunger": "medium"
+        },
+        {
+            "name": "오리불고기",
             "hunger": "large"
         },
         {
-            "name": "Gochujang Stew",
+            "name": "곤드레밥",
+            "hunger": "medium"
+        },
+        {
+            "name": "낙지전골",
             "hunger": "large"
         },
         {
-            "name": "Kimchi Fried Rice",
+            "name": "콩국수",
             "hunger": "medium"
         },
         {
-            "name": "Mandu",
+            "name": "애호박찌개",
             "hunger": "medium"
         },
         {
-            "name": "Kimchi Soup",
-            "hunger": "large"
-        },
-        {
-            "name": "Korean Sushi Rolls",
+            "name": "쭈꾸미볶음",
             "hunger": "medium"
         },
         {
-            "name": "Hwangtae Gui",
+            "name": "홍어삼합",
             "hunger": "medium"
-        },
-        {
-            "name": "Sujebi",
-            "hunger": "large"
-        },
-        {
-            "name": "Bulgogi Sandwich",
-            "hunger": "medium"
-        },
-        {
-            "name": "Bokkeumbap",
-            "hunger": "medium"
-        },
-        {
-            "name": "Tteok",
-            "hunger": "small"
         }
     ]
 }

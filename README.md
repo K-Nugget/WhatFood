@@ -1,50 +1,33 @@
-# React + TypeScript + Vite
+# [WhatFood](https://k-nugget.github.io/WhatFood/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**WhatFood** is a simple web app that gives you random Korean food recommendations based on your hunger level. It is not really finished, since I don't currently need. I will continue adding to it in the future.  
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Get random Korean dish suggestions
+- Select your hunger level (small, medium, high)
 
-## Expanding the ESLint configuration
+## Link
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+You can access the site through this link: 
+https://k-nugget.github.io/WhatFood/
 
-- Configure the top-level `parserOptions` property like this:
+## Usage
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+1. Select your hunger level.
+2. Click "Recommend Food"
+3. Enjoy your dish!
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+## Contributing
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+1. Fork the repo.
+2. Create a new branch.
+3. Make your changes and submit a pull request.
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+## License
+
+This project is licensed under the GNU GPLv3. See [LICENSE](LICENSE) for details.
+
+Happy eating! 🍽️
+
+맛있게 드세요
